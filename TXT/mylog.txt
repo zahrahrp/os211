@@ -21,3 +21,5 @@ ZCZC W01 30 L14 Assignment #4 guest username
 ZCZC W01 30 L15 Assignment #5 clone git repo
 ZCZC W01 15 L16 Assignment #6 update mylog.txt
 ZCZC W01 30 L17 Assignment #7 make top 10 list 
+ZCZC W01 30 L18 Assignment #8 try commands
+ZCZC W01 15 L23 Discord related
