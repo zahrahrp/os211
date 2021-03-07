@@ -10,3 +10,13 @@ ZCZC W00 5 L03 GitHub related
 ZCZC W00 15 L01 SCELE related: pop quiz
 ZCZC W00 15 L05 GSGS related
 ZCZC W01 100 L02 Zoom related
+ZCZC W01 10 L01 SCELE related
+ZCZC W01 5 L03 Github related mylog.txt, settings
+ZCZC W01 30 L05 GSGS related: Pop Quiz
+ZCZC W01 45 L06 Reading W01 Slides, references
+ZCZC W01 120 L11 Assignment #1 install Linux, debian guest
+ZCZC W01 30 L12 Assignment #2 Reading references
+ZCZC W01 30 L13 Assignment #3 log into guest, try CLI commands
+ZCZC W01 30 L14 Assignment #4 guest username
+ZCZC W01 30 L15 Assignment #5 clone git repo
+ZCZC W01 15 L16 Assignment #6 update mylog.txt 
