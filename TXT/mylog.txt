@@ -23,3 +23,20 @@ ZCZC W01 15 L16 Assignment #6 update mylog.txt
 ZCZC W01 30 L17 Assignment #7 make top 10 list 
 ZCZC W01 30 L18 Assignment #8 try commands
 ZCZC W01 15 L23 Discord related
+ZCZC W02 30 L01 SCELE related
+ZCZC W02 100 L02 Zoom class
+ZCZC W02 10 L03 Github related
+ZCZC W02 30 L05 GSGS related
+ZCZC W02 30 L06 Reading references
+ZCZC W02 45 L11 Assignment #1 read OSC10
+ZCZC W02 15 L12 Assignment #2 
+ZCZC W02 10 L13 Assignment #3
+ZCZC W02 10 L14 Assignment #4
+ZCZC W02 10 L15 Assignment $5
+ZCZC W02 15 L16 Assignment #6
+ZCZC W02 30 L17 Assignment #7
+ZCZC W02 10 L18 Assignment #8
+ZCZC W02 15 L19 Assignment #9
+ZCZC W02 10 L20 Assignment #10
+ZCZC W02 30 L22 Youtube study
+ZCZC W02 15 L23 Discord related
