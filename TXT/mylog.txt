@@ -54,3 +54,10 @@ ZCZC W04 30 L06 Reading slides
 ZCZC W04 200 L10 Assignment general
 ZCZC W04 20 L23 Discord related
 ZCZC W04 30 L22 youtube study
+ZCZC W05 15 L01 SCELE related
+ZCZC W05 100 L02 Zoom related
+ZCZC W05 45 L05 GSGS related
+ZCZC W05 30 L06 reading slides
+ZCZC W05 200 L10 Assignment generak
+ZCZC W05 20 L23 Discord related
+ZCZC W05 30 L22 youtube related
