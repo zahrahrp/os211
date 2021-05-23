@@ -82,3 +82,10 @@ ZCZC W08 30 L06 reading slide
 ZCZC W08 360 L10 Assignment general
 ZCZC W08 20 L23 Discord related
 ZCZC W08 45 L22 youtube related
+ZCZC W09 40 L01 SCELE related
+ZCZC W09 100 L02 Zoom related
+ZCZC W09 60 L05 GSGS related
+ZCZC W09 30 L06 reading slide
+ZCZC W09 600 L10 Assignment general
+ZCZC W09 30 L23 Discord related
+ZCZC W09 30 L22 youtube related
