@@ -89,3 +89,7 @@ ZCZC W09 30 L06 reading slide
 ZCZC W09 600 L10 Assignment general
 ZCZC W09 30 L23 Discord related
 ZCZC W09 30 L22 youtube related
+ZCZC W10 30 L01 Scele related
+ZCZC W10 100 L02 Zoom related
+ZCZC W10 45 L05 GSGS related
+ZCZC W10 360 L10 Assignment general
